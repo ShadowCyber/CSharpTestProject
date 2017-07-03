@@ -16,10 +16,8 @@ namespace TestWindowsApp
 	/// <summary>
 	/// Description of MainForm.
 	/// </summary>
-	public partial class MainForm : Form
-	{
-		public MainForm()
-		{
+	public partial class MainForm : Form {
+		public MainForm() { 
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//
